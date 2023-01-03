@@ -1,0 +1,72 @@
+
+
+/* new shit */
+#work h2 {
+    color: white;
+  }
+
+/* Set the body background color to a dark grey */
+body {
+    background-color: #333;
+    font-family: 'Rubik', sans-serif;
+}
+
+/* Customize the navigation bar */
+.navbar-light {
+    background-color: #333;
+    color: #00ffff;
+    
+}
+
+/* Set the color of the links in the navigation bar to a lighter shade of cyan */
+.navbar a {
+    color: #00cccc;
+}
+
+/* Set the hover color of the links in the navigation bar to a brighter shade of cyan */
+.navbar a:hover {
+    color: #00ffff;
+}
+
+/* Customize the hero section */
+.jumbotron {
+    background-color: #333;
+    color: #00ffff;
+}
+
+/* Customize the work section */
+#work .card {
+    background-color: #5b5b5b;
+    color: #00ffff;
+}
+
+/* Set the box shadow of the cards in the work section to a lighter shade of cyan on hover */
+#work .card:hover {
+    box-shadow: 0 0 10px #00cccc;
+}
+
+/* Customize the skills section */
+#skills .card {
+    background-color: #333;
+    color: #00ffff;
+}
+
+/* Set the box shadow of the cards in the skills section to a darker shade of cyan on hover */
+#skills .card:hover {
+    box-shadow: 0 0 10px #003333;
+}
+
+/* Customize the about section */
+#about {
+    background-color: #333;
+    color: #00ffff;
+}
+
+/* Customize the contact section */
+#contact {
+    background-color: #333;
+    color: #00ffff;
+}
+
+/* Set the width and height of the card images to a smaller size */
+
